@@ -1,5 +1,5 @@
 # DIY-AR-Headset-Software
-This is experimental software for interacting with AR.js / WebXR style augmented reality using an experimental DIY augmented reality headset.
+This is experimental software for interacting with AR.js / WebXR style augmented reality using a Google Cardboard style headset.
 
 File descriptions:
 cameraSelect.html = This file is a basic webAR application built with AR.js and AFrame. It has added code for use with the DIY AR headset.
