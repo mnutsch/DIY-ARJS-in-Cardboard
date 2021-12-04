@@ -6,10 +6,10 @@ cameraSelect.html = This file is a basic webAR application built with AR.js and 
 dual.html = This file is a controller for loading the cameraSelect.html page in dual view. This is the file to direct to for use with the headset. 
 
 ## Setup:
-<ul>
-<li>Step 1: Buy a Google Cardboard style viewer.</li>
-<li>Step 2: Cut a hole in the viewer so that your phone's camera can view out.</li>
-<li>Step 3: Navigate to this app in your phone's web browser.</li>
-<li>Step 4: Insert your phone into the viewer.</li>
-<li>Step 5: Look at an AR.js target marker.</li>
-</ul>
+<ol>
+<li>Buy a Google Cardboard style viewer.</li>
+<li>Cut a hole in the viewer so that your phone's camera can view out.</li>
+<li>Navigate to this app in your phone's web browser.</li>
+<li>Insert your phone into the viewer.</li>
+<li>Look at an AR.js target marker.</li>
+</ol>
